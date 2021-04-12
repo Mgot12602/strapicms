@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_project_tags",
+  "info": {
+    "name": "tag",
+    "icon": "angle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "enumeration",
+      "enum": [
+        "iot",
+        "wordpress",
+        "mongodb",
+        "mdx",
+        "formspree",
+        "jest",
+        "redux",
+        "react",
+        "gatsby",
+        "html",
+        "css",
+        "styled_omponents"
+      ]
+    }
+  }
+}
