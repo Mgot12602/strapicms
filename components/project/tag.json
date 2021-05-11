@@ -28,7 +28,9 @@
         "graphql",
         "styledComp",
         "testingLibrary",
-        "jestDom"
+        "jestDom",
+        "javascript",
+        "p5js"
       ]
     }
   }
