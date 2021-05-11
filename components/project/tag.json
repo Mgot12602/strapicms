@@ -21,7 +21,14 @@
         "gatsby",
         "html",
         "css",
-        "styled_omponents"
+        "strapi",
+        "stripe",
+        "typescript",
+        "hooks",
+        "graphql",
+        "styledComp",
+        "testingLibrary",
+        "jestDom"
       ]
     }
   }
